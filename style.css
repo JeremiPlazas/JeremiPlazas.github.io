@@ -67,7 +67,7 @@ table {
 .div1 {
     width:90%;
     padding: 5%;
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.7);
     color:#aaa;
     font-family: 'Shojumaru', cursive;
 }
@@ -85,7 +85,7 @@ table {
 .div2 {
     width:90%;
     padding: 5%;
-    background-color: #aaa;
+    background-color: rgba(170, 170, 170, 0.7);
     color:#333;
     font-family: 'Vampiro One', cursive;
     text-align: center;
