@@ -49,21 +49,34 @@ table {
 
 
 
-
+.container {
+	padding: 2%;
+}
 
 .div1 {
 	width:100%;
+	padding: 40px;
 	background-color: #333;
 	color:#aaa;
 	font-family: 'Shojumaru', cursive;
 }
  .div1 h1 {
-	font-size: 40px;
+	font-size: 60px;
+	text-align: center;
  }
 
+.div2 {
+	width:100%;
+	padding: 40px;
+	background-color: #aaa;
+	color:#333;
+	font-family: 'Vampiro One', cursive;
+}
 
-
-
+.div2 p {
+	font-size: 30px;
+	text-align: center;
+}
 
 
 
