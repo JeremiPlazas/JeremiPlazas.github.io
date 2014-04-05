@@ -16,83 +16,83 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+    display: block;
 }
 body {
-	line-height: 1;
+    line-height: 1;
 }
 ol, ul {
-	list-style: none;
+    list-style: none;
 }
 blockquote, q {
-	quotes: none;
+    quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+    content: '';
+    content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 
 
 .container {
-	width:100%;
+    width:100%;
 }
 
 .bg {
-  background: url('bg.jpg') repeat;
-  position: fixed;
-  width: 100%;
-  height: 300%;
-  top:0;
-  left:0;
-  z-index: -1;
+    background: url('bg.jpg') repeat;
+    position: fixed;
+    width: 100%;
+    height: 300%;
+    top:0;
+    left:0;
+    z-index: -1;
 }
 
 
 .div1 {
-	width:90%;
-	padding: 5%;
-	background-color: #333;
-	color:#aaa;
-	font-family: 'Shojumaru', cursive;
+    width:90%;
+    padding: 5%;
+    background-color: #333;
+    color:#aaa;
+    font-family: 'Shojumaru', cursive;
 }
 .div1 h1 {
-	font-size: 60px;
-	text-align: center;
+    font-size: 60px;
+    text-align: center;
 }
 
 .clearslot {
-  width:100%;
-  height:300px;
-  background:none;
+    width:100%;
+    height:300px;
+    background:none;
 }
 
 .div2 {
-	width:90%;
-	padding: 5%;
-	background-color: #aaa;
-	color:#333;
-	font-family: 'Vampiro One', cursive;
+    width:90%;
+    padding: 5%;
+    background-color: #aaa;
+    color:#333;
+    font-family: 'Vampiro One', cursive;
+    text-align: center;
 }
 
 .div2 p {
-	font-size: 30px;
-	text-align: center;
+    font-size: 30px;
 }
 
 
