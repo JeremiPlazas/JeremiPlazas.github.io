@@ -54,8 +54,8 @@ table {
 }
 
 .div1 {
-	width:100%;
-	padding: 40px;
+	width:90%;
+	padding: 5%;
 	background-color: #333;
 	color:#aaa;
 	font-family: 'Shojumaru', cursive;
@@ -66,8 +66,8 @@ table {
 }
 
 .div2 {
-	width:100%;
-	padding: 40px;
+	width:90%;
+	padding: 5%;
 	background-color: #aaa;
 	color:#333;
 	font-family: 'Vampiro One', cursive;
