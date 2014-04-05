@@ -1,6 +1,6 @@
 /* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+v2.0 | 20110126
+License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -49,6 +49,9 @@ table {
 
 
 
+.container {
+	width:100%;
+}
 
 .div1 {
 	width:100%;
@@ -57,10 +60,10 @@ table {
 	color:#aaa;
 	font-family: 'Shojumaru', cursive;
 }
- .div1 h1 {
+.div1 h1 {
 	font-size: 60px;
 	text-align: center;
- }
+}
 
 .div2 {
 	width:100%;
